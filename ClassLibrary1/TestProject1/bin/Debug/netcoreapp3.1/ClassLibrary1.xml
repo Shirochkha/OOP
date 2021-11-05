@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibrary1</name>
+    </assembly>
+    <members>
+        <member name="T:ClassLibrary1.Figure">
+            <summary>
+            main class of hierarhy
+            </summary>
+        </member>
+        <member name="T:ClassLibrary1.Paral">
+            <summary>
+            Класс Параллелограмм
+            </summary>
+        </member>
+        <member name="M:ClassLibrary1.Paral.GetSideA">
+            <summary>
+            Методы расчета сторон
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ClassLibrary1.Paral.P">
+            <summary>
+            Метод расчета периметра
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ClassLibrary1.Paral.S">
+            <summary>
+            Метод расчета площади
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ClassLibrary1.Paral.IsExist">
+            <summary>
+            Метод проверки на существование
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ClassLibrary1.Paral.IsPointBelong(System.Double,System.Double)">
+            <summary>
+            Метод проверки на приндлежность точки векторным методом
+            </summary>
+            <param name="x_point,y_point,y_point"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ClassLibrary1.Pnt">
+            <summary>
+            Структура, которая ассоциирована с точкой на плоскости
+            </summary>
+        </member>
+        <member name="M:ClassLibrary1.Pnt.Len(ClassLibrary1.Pnt)">
+            <summary>
+            Метод, измеряющий расстояние между точками
+            </summary>
+            <param name="pnt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ClassLibrary1.Program.Main(System.String[])">
+            <summary>
+            menu v console
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:ClassLibrary1.Program.Create">
+            <summary>
+            Ввод вершин трапеции по координатам [x;y]
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ClassLibrary1.Program.CheckPointAffiliation(ClassLibrary1.Paral)">
+            <summary>
+             Проверка на принадлежность точки к фигуре
+            </summary>
+            <param name="A"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibrary1</name>
+    </assembly>
+    <members>
+        <member name="T:ClassLibrary1.Figure">
+            <summary>
+            Main class of hierarhy.
+            </summary>
+        </member>
+        <member name="P:ClassLibrary1.Figure.points">
+            <summary>
+            Class field with two methods.
+            </summary>
+        </member>
+        <member name="M:ClassLibrary1.Figure.#ctor(ClassLibrary1.Point[])">
+            <summary>
+            Figure.
+            </summary>
+            <param name="points">The points value.</param>
+        </member>
+        <member name="M:ClassLibrary1.Figure.SquareCalculation">
+            <summary>
+            Calculation of the square.
+            </summary>
+        </member>
+        <member name="M:ClassLibrary1.Figure.PerimetrCalculation">
+            <summary>
+            Calculation of the perimetr.
+            </summary>
+        </member>
+        <member name="T:ClassLibrary1.Menu">
+            <summary>
+            Class Menu.
+            </summary>
+        </member>
+        <member name="M:ClassLibrary1.Menu.ShowMenu">
+            <summary>
+            Show Menu.
+            </summary>
+        </member>
+        <member name="T:ClassLibrary1.Parallelogram">
+            <summary>
+            Class Parallelogram.
+            </summary>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.#ctor(ClassLibrary1.Point[])">
+            <summary>
+            Parallelogram.
+            </summary>
+            <param name="points"></param>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.#ctor(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Parallelogram
+            </summary>
+            <param name="x1">Abscissa of the point x1.</param>
+            <param name="y1">Ordinate of the point y1.</param>
+            <param name="x2">Abscissa of the point x2.</param>
+            <param name="y2">Ordinate of the point y2.</param>
+            <param name="x3">Abscissa of the point x3.</param>
+            <param name="y3">Ordinate of the point y3.</param>
+            <param name="x4">Abscissa of the point x4.</param>
+            <param name="y4">Ordinate of the point y4.</param>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.SideACalculation">
+            <summary>
+            Side A calculation method.
+            </summary>
+            <returns>Value of side A</returns>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.SideBCalculation">
+            <summary>
+            Side B calculation method.
+            </summary>
+            <returns>Value of side B.</returns>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.SideCCalculation">
+            <summary>
+            Side C calculation method.
+            </summary>
+            <returns>Value of side C.</returns>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.SideDCalculation">
+            <summary>
+            Side D calculation method
+            </summary>
+            <returns>Value of side D.</returns>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.PerimetrCalculation">
+            <summary>
+            Perimetr calculation method.
+            </summary>
+            <returns>Value of perimetr.</returns>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.SquareCalculation">
+            <summary>
+            Square calculation method.
+            </summary>
+            <returns>Value of square.</returns>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.IsExist">
+            <summary>
+            Method of checking for existance.
+            </summary>
+            <returns>Value of flag.</returns>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.IsPointBelong(System.Double,System.Double)">
+            <summary>
+            Point ownership chek method(vector).
+            </summary>
+            <param name="x_point">Abscissa of the point x_point.</param>
+            <param name="y_point">Ordinate of the point y_point.</param>
+            <returns>Value of bool IsPointBelong.</returns>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.Create">
+            <summary>
+            Input of parallelogram vertices by coordinates [x;y].
+            </summary>
+            <returns>Value of Parallelogram A.</returns>
+        </member>
+        <member name="M:ClassLibrary1.Parallelogram.CheckPointAffiliation(ClassLibrary1.Parallelogram)">
+            <summary>
+             Cheking if a point belongs to a figure.
+            </summary>
+            <param name="A">Parallelogram A.</param>
+        </member>
+        <member name="T:ClassLibrary1.Point">
+            <summary>
+            Structure associated with a point on a plan.
+            </summary>
+        </member>
+        <member name="F:ClassLibrary1.Point.x">
+            <summary>
+            Abscissa of the point.
+            </summary>
+        </member>
+        <member name="F:ClassLibrary1.Point.y">
+            <summary>
+            Ordinate of the point.
+            </summary>
+        </member>
+        <member name="M:ClassLibrary1.Point.#ctor(System.Double,System.Double)">
+            <summary>
+            Point coordinates.
+            </summary>
+            <param name="x">Abscissa of the point.</param>
+            <param name="y">Ordinate of the point.</param>
+        </member>
+        <member name="M:ClassLibrary1.Point.Len(ClassLibrary1.Point)">
+            <summary>
+            Method of measuring the distance between points.
+            </summary>
+            <param name="pnt">The value pnt.</param>
+            <returns>Value of distance between points.</returns>
+        </member>
+        <member name="T:ClassLibrary1.Program">
+            <summary>
+            Class Program.
+            </summary>
+        </member>
+        <member name="M:ClassLibrary1.Program.Main(System.String[])">
+            <summary>
+            Menu in console.
+            </summary>
+            <param name="args"></param>
+        </member>
+    </members>
+</doc>
