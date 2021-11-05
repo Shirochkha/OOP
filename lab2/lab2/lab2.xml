@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>lab2</name>
+    </assembly>
+    <members>
+        <member name="T:lab2.CalculationMethod">
+            <summary>
+            Calculation rectangle method.
+            </summary>
+        </member>
+        <member name="M:lab2.CalculationMethod.Rectangle(lab2.DefiniteIntegral)">
+            <summary>
+            Rectangle method.
+            </summary>
+            <param name="I">Integral.</param>
+            <returns>Partial sum of a definite integral.</returns>
+        </member>
+        <member name="T:lab2.DefiniteIntegral">
+            <summary>
+            Definite integral.
+            </summary>
+        </member>
+        <member name="F:lab2.DefiniteIntegral.a">
+            <summary>
+            Lower and upper limit of a definite integral.
+            </summary>
+        </member>
+        <member name="F:lab2.DefiniteIntegral.b">
+            <summary>
+            Lower and upper limit of a definite integral.
+            </summary>
+        </member>
+        <member name="F:lab2.DefiniteIntegral.m">
+            <summary>
+            Steps.
+            </summary>
+        </member>
+        <member name="M:lab2.DefiniteIntegral.#ctor(System.Double,System.Double,System.Int32)">
+            <summary>
+            Definite integral.
+            </summary>
+            <param name="ina">Lower limit.</param>
+            <param name="inb">Upper limit.</param>
+            <param name="inm">Steps.</param>
+        </member>
+        <member name="M:lab2.DefiniteIntegral.op_Addition(lab2.DefiniteIntegral,lab2.DefiniteIntegral)">
+            <summary>
+            Operator overloading  +.
+            </summary>
+            <param name="Integral1"></param>
+            <param name="Integral2"></param>
+            <returns>Sum integrals.</returns>
+        </member>
+        <member name="M:lab2.DefiniteIntegral.op_Multiply(lab2.DefiniteIntegral,System.Double)">
+            <summary>
+            Operator overloading *.
+            </summary>
+            <param name="Integral1"></param>
+            <param name="number"></param>
+            <returns>Multiplication of an integral by a number.</returns>
+        </member>
+        <member name="M:lab2.SubIntegralFun.Sif1(System.Double)">
+            <summary>
+            Integrand 1.
+            </summary>
+            <param name="x">Variable x.</param>
+            <returns>Integrand 1.</returns>
+        </member>
+    </members>
+</doc>
