@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>lab4</name>
+    </assembly>
+    <members>
+        <member name="T:lab4.Menu">
+            <summary>
+            Show Menu.
+            </summary>
+        </member>
+        <member name="M:lab4.Menu.ShowMenu">
+            <summary>
+            Work with strings.
+            </summary>
+        </member>
+        <member name="T:lab4.Program">
+            <summary>
+            Program.
+            </summary>
+        </member>
+        <member name="M:lab4.Program.Main">
+            <summary>
+            Menu.
+            </summary>
+        </member>
+    </members>
+</doc>
