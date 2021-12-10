@@ -1,0 +1,15 @@
+D:\lab7\lab7\bin\Debug\lab7.exe.config
+D:\lab7\lab7\bin\Debug\lab7.exe
+D:\lab7\lab7\bin\Debug\lab7.pdb
+D:\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+D:\lab7\lab7\obj\Debug\MainWindow.g.cs
+D:\lab7\lab7\obj\Debug\App.g.cs
+D:\lab7\lab7\obj\Debug\lab7_MarkupCompile.cache
+D:\lab7\lab7\obj\Debug\lab7_MarkupCompile.lref
+D:\lab7\lab7\obj\Debug\MainWindow.baml
+D:\lab7\lab7\obj\Debug\lab7.g.resources
+D:\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+D:\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+D:\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+D:\lab7\lab7\obj\Debug\lab7.exe
+D:\lab7\lab7\obj\Debug\lab7.pdb
