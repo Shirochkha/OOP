@@ -1,0 +1,6 @@
+D:\lab6\DataBase\bin\Debug\DataBase.dll
+D:\lab6\DataBase\bin\Debug\DataBase.pdb
+D:\lab6\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+D:\lab6\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\lab6\DataBase\obj\Debug\DataBase.dll
+D:\lab6\DataBase\obj\Debug\DataBase.pdb

@@ -1,0 +1,13 @@
+D:\lab6\lab6\bin\Debug\lab6.exe.config
+D:\lab6\lab6\bin\Debug\lab6.exe
+D:\lab6\lab6\bin\Debug\lab6.pdb
+D:\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+D:\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\lab6\lab6\obj\Debug\lab6.exe
+D:\lab6\lab6\obj\Debug\lab6.pdb
+D:\lab6\lab6\bin\Debug\DataBase.dll
+D:\lab6\lab6\bin\Debug\DataBase.pdb
+D:\lab6\lab6\obj\Debug\lab6.Form1.resources
+D:\lab6\lab6\obj\Debug\lab6.csproj.CopyComplete
