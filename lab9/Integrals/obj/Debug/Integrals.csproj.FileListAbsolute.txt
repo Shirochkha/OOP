@@ -1,0 +1,6 @@
+D:\lab9\Integrals\bin\Debug\Integrals.dll
+D:\lab9\Integrals\bin\Debug\Integrals.pdb
+D:\lab9\Integrals\obj\Debug\Integrals.csproj.AssemblyReference.cache
+D:\lab9\Integrals\obj\Debug\Integrals.csproj.CoreCompileInputs.cache
+D:\lab9\Integrals\obj\Debug\Integrals.dll
+D:\lab9\Integrals\obj\Debug\Integrals.pdb
